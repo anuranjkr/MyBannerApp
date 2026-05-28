@@ -1,0 +1,2 @@
+rootProject.name = "MyBannerApp"
+include ':app'
